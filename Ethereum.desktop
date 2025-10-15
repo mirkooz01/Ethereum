@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ethereum
+Comment=
+Exec=python3 /home/mirkooz01/Scrivania/Software/Ethereum/Ethereum.py
+Icon=org.xfce.genmon
+Path=
+Terminal=false
+StartupNotify=false
